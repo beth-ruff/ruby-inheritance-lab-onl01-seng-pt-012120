@@ -1,2 +1,4 @@
-learn User 
+class User 
+
+
 end 
