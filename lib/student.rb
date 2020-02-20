@@ -5,7 +5,7 @@ class Student < User
   end 
   
   def learn(knowledge)
-    @knowledge << self.split
+    @knowledge.split << self
   end 
 
 end
